@@ -3,9 +3,11 @@
 Product Name: LibraryManager
 
 Problem Statement: LibraryManager is the platform for managing library. Students bring books to clerk clerk will submit it to their names.
+
 Activities: Design of classes and interfaces. Object-oriented design methodologies and notations. Design patterns. Generics and reflection. Exception handling. Concurrent programming. Graphical user interface programming. Software engineering concepts and tools. Requirements: Java Development Kit <= 11.
 
 Technologies: Spring boot, HTML, CSS, JS, PostgreSQL, Thymeleaf
+
 Main Page of Admin
 <img width="1428" alt="Screen Shot 2022-08-19 at 12 40 55 AM" src="https://user-images.githubusercontent.com/64993553/185569003-64dacefa-1496-4a07-9f92-1372eba27b78.png">
 
