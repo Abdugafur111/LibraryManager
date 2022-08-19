@@ -27,3 +27,4 @@ Members List
 Add New Person
 <img width="1431" alt="Screen Shot 2022-08-19 at 12 52 04 AM" src="https://user-images.githubusercontent.com/64993553/185571007-6522428c-dec8-4aef-aefe-90113eed6129.png">
 
+<img width="1435" alt="Screen Shot 2022-08-19 at 1 02 48 AM" src="https://user-images.githubusercontent.com/64993553/185572973-2a37c0d6-8a6e-4ef4-b98c-099e21a75854.png">
