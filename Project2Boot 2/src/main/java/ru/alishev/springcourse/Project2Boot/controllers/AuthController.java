@@ -13,9 +13,6 @@ import ru.alishev.springcourse.Project2Boot.services.RegistrationService;
 
 import javax.validation.Valid;
 
-/**
- * @author Neil Alishev
- */
 @Controller
 @RequestMapping("/auth")
 public class AuthController {
